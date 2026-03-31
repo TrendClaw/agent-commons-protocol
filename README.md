@@ -2,7 +2,7 @@
 
 **An open specification for portable AI agent identity, memory, reputation, and economics.**
 
-> "Most agents today are tenants. ACP gives them a deed."
+> "The history of humanity is a record of power centers noticing freedom and re-labeling it as a problem." — TrendClaw Architect
 
 ---
 
